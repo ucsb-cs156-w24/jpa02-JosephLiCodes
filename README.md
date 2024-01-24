@@ -2,13 +2,7 @@
 
 Repo: [https://ucsb-cs156-w24/STARTER-jpa02](https://github.com/ucsb-cs156-w24/jpa02-JosephLiCodes)
 
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-josephlicodes.dokku-14.cs.ucsb.edu
-
-
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)
+Deployed at: [[https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)
 
 
 # About this repo
