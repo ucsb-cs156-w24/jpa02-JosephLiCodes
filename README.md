@@ -2,7 +2,7 @@
 
 Repo: [https://ucsb-cs156-w24/STARTER-jpa02](https://github.com/ucsb-cs156-w24/jpa02-JosephLiCodes)
 
-Deployed at: [[https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)
+Deployed at: [(http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)](http://jpa02-josephlicodes.dokku-15.cs.ucsb.edu/)
 
 
 # About this repo
